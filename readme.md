@@ -1,1 +1,3 @@
+Please note that this content model has been superseded by Well Tests content model. Please use that information exchange for future well test data.
+
 This repository contains document artifacts for an inforamtion exchange for Drill Stem tests from a well. The artifacts include an Excel Workbook that defines and documents the content model, and an XML schema that implements the model. The HeaderURI for a particular borehole (well for simple wells) is the cross-referencing link (foreign key) used to associate the header record, well logs, temperature measurements, and other information from a particular borehole.
